@@ -1,2 +1,2 @@
 # matlab
-Some free and easy matlab codes
+Some free and easy matlab code snippets.
